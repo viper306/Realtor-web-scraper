@@ -29,7 +29,6 @@ def send_request():
                 'PropertySearchTypeId': '1',
                 'TransactionTypeId': '2',
                 'PriceMin': '300000',
-                'PriceMax': '1300000',
                 'BedRange': '1-0',
                 'BuildingTypeId': '1',
                 'Currency': 'CAD',
